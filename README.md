@@ -1,2 +1,16 @@
 # TAP-TAP-FOLD-CODE-EXAMPLE
-This is the code example for the project - TAP TAP FOLD. 
+🎮 Project Overview
+
+This project is a Unity code example collection, showcasing the implementation of several game systems and mechanics, including:
+
+· Data Visualization with ScriptableObjects
+
+· Origami Gameplay System (folding mechanics)
+
+· UI Visualization Tool (UISpline)
+
+· Event-Driven System (Observer Pattern)
+
+· Game Time System
+
+The goal is to provide developers with references and examples for designing modular and reusable gameplay features in Unity.
