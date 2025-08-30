@@ -1,7 +1,7 @@
 # TAP-TAP-FOLD-CODE-EXAMPLE
 🎮 Project Overview
 
-This project is a Unity code example collection, showcasing the implementation of several game systems and mechanics, including:
+This project is a Unity code example collection, showcasing the implementation of several game systems and mechanics I developed in TAP TAP FOLD, including:
 
 · Data Visualization with ScriptableObjects
 
